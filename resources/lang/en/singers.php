@@ -1,0 +1,20 @@
+<?php
+return [
+    'create' => 'Create',
+    'delete' => 'Delete',
+    'edit' => 'Edit',
+    'list' => 'List Singer',
+    'name' => 'name',
+    'avatar' => 'avatar',
+    'date_of_birth' => 'birth day',
+    'introduction' => 'introduction',
+    'vague0' => 'Singer',
+    'vague1' => 'Author',
+    'submit' => 'submit',
+    'reset' => 'reset',
+    'status' => 'status',
+    'normal' => 'normal',
+    'disable' => 'disable',
+    'country' => 'country',
+    'vague' => 'status',
+];
